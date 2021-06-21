@@ -8,7 +8,8 @@
 ---
  ### pre Developer
 
-<li>  Always do my best. 🍀
+<li>Always do my best</li>
+ writting ... 
 
 
 
