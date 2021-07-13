@@ -4,12 +4,9 @@
 	
   </div>
   
- ## 박준영
 ---
- ### pre Developer
+ #### 항상 배우는 자세로
 
-<li>Always do my best</li>
- writting ... 
 
 
 
