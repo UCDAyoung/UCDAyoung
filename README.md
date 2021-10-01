@@ -1,12 +1,10 @@
- <div align=right>
+ <div align=left>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUCDAyoung%2Fhit-counter&count_bg=%234ABEB2&title_bg=%23555555&icon=&icon_color=%23E7D4D4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-	
-  </div>
-  
----
+	</div>
+
  #### 항상 배우는 자세로
- ![UCDAyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=UCDAyoung&show_icons=true&theme=great-gatsby)
+
 
 
 
