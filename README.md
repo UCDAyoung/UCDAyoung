@@ -6,6 +6,7 @@
   
 ---
  #### 항상 배우는 자세로
+ ![UCDAyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=UCDAyoung&show_icons=true&theme=great-gatsby)
 
 
 
